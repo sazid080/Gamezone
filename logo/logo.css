@@ -1,0 +1,40 @@
+.first{
+    background-color: #f65314;    
+}
+.second{
+    background-color:#7cbb00;
+    position: relative;bottom: 110px;left: 110px;   
+}
+.third{
+    background-color:#00a1f1;
+    position: relative;bottom: 110px;
+}
+.fourth{
+    background-color:#ffbb00;
+    position: relative;bottom: 220px;left: 110px;
+}
+.common{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    border-radius: 10px;   
+}
+.logo{
+    font-size: 33px;
+    position: relative;bottom: 250px;left: 12px;
+    font-family: cursive;
+    font-weight: bolder;
+}
+.styling{
+    font-size: larger;
+    font-style: italic;
+    text-decoration: underline;
+}
+a{
+   position: relative;bottom: 250px;left: 14px;
+   text-decoration: none; 
+}
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
